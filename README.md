@@ -14,10 +14,6 @@ I built this web site in order to increase my employment prospect.
 + Sass
 + Javascript
 
-### 4. Deployment
-
-I deployed it in www.pythonanywere.com
-
 ### 4. Take a look it
 
 + http://www.byambalogy.com/#
